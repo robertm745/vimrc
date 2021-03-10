@@ -2,8 +2,6 @@ set nocompatible
 set nostartofline
 syntax on
 colorscheme desert
-set tabstop=4
-set expandtab
 set number
 set relativenumber
 set showcmd
@@ -26,3 +24,5 @@ set t_vb=
 set mouse+=a
 map Y y$
 set laststatus=2
+" set tabstop=4
+" set expandtab
